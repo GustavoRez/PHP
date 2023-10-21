@@ -1,0 +1,8 @@
+One of the differences between GET and POST, is that
+GET shows the result in the URL, while POST just shows
+in body.
+So it's safer use POST, because it won't show in your
+history or cache memory. Makes more difficult to 
+attackers stolen your data.
+But, GET request is comparatively better than POST (what
+don't make sense in my head), so it's more used.
